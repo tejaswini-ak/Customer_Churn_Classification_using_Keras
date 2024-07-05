@@ -1,5 +1,5 @@
 # Customer Churn Prediction using Keras
-Deep Learning Project
+Deep Learning Project <br>
 This project aims to analyze and predict customer churn for a telecom company using neural networks implemented in Keras.
 
 ### Problem Statement
